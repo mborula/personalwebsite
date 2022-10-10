@@ -28,47 +28,43 @@ hr{
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(134,134,134,1) 50%, rgba(0,0,0,1) 100%);
 }
 .about-me{
-    display: block;
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    min-width: fit-content;
     position: relative;
-    min-width: 400px;
-    
-}
-.QuestionMark{
-    display: inline-block;
+    min-width: 700px;
     overflow: hidden;
 }
 .descritpion1{
-    display: inline-block;
-    margin-top: 0;
+    display: inline-block;  
     position: absolute;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    top: 32px;
-    margin-left: 10px;
-
+    margin-top: 5px;
 }
 .title1{
-    width: fit-content;
-    display: inline-block;
-    position: absolute;
-    bottom: 60px;
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
+    display: inline-block;
+    margin: 0;
     margin-left: 10px;
-
+}
+.text1{
+    display: inline-block;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-left: 10px;
+    
 }
 .current-projects{
-    margin-top: 70px;
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
     min-width: fit-content;
     position: relative;
-    min-width: 400px;
+    min-width: 700px;
 }
 .descritpion2{
     display: inline-block;  
@@ -95,7 +91,7 @@ hr{
     font-weight: bold;
     text-align: center;
     font-size: 2em;
-    margin-top: 50px;
+    margin-top: 70px;
     text-decoration: underline;
 }
 .my-email{
