@@ -34,7 +34,6 @@ hr{
     width: 25%;
     position: relative;
     min-width: 700px;
-    overflow: hidden;
 }
 .descritpion1{
     display: inline-block;  
